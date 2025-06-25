@@ -2,6 +2,7 @@
 
 This project is a modern web application that fetches and displays the latest Artificial Intelligence news from [WIRED's AI RSS feed](https://www.wired.com/feed/tag/ai/latest/rss).
 
+Live Link: https://ai-trends-news-wired.vercel.app/
 
 ## Technology Stack
 - Next.js
