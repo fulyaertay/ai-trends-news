@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+export const revalidate = 60; // 60 saniyede bir güncellenir
 import Parser from 'rss-parser';
 import {
   Container,
